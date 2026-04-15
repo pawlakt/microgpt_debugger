@@ -1,3 +1,6 @@
 /layout
 /helpers
 AGENTS.md
+node_modules
+dist
+coverage
